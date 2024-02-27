@@ -75,12 +75,12 @@ final  List quiz = [
         "alternativa correcta": "d)",
       },
       {
-        "pregunta": "¿Qué es un StatefulWidget en Flutter?",
+        "pregunta": "¿Qué hace un StatefulWidget en Flutter?",
         "respuestas": [
-          "a) Un widget que no cambia su estado durante el tiempo de vida de la aplicación",
-          "b) Un widget que puede cambiar su estado en respuesta a eventos o datos de entrada",
-          "c) Un widget utilizado para la navegación entre pantallas",
-          "d) Un widget que proporciona funcionalidad de red",
+          "a) No cambia su estado durante el tiempo de vida de la aplicación",
+          "b) Cambia su estado en respuesta a eventos o datos de entrada",
+          "c) Navega entre pantallas",
+          "d) Proporciona funcionalidad de red",
         ],
         "alternativa correcta": "b)",
       },
